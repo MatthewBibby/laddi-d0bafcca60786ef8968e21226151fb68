@@ -9,7 +9,7 @@ Then, the index_lms.html file needs to be edited to include these scripts before
 
       <!-- START LADDI  -->
       <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/gh/MatthewBibby/laddi-d0bafcca60786ef8968e21226151fb68@0.1/laddi-d0bafcca60786ef8968e21226151fb68-1c8dbddf9165922df29773c7b440a7e2322ca22d41cf3d53affdfc48a1e453f1.js"></script>
+      <script src="https://cdn.jsdelivr.net/gh/MatthewBibby/laddi-d0bafcca60786ef8968e21226151fb68/laddi-d0bafcca60786ef8968e21226151fb68-1c8dbddf9165922df29773c7b440a7e2322ca22d41cf3d53affdfc48a1e453f1.js"></script>
       <!-- END LADDI -->  
 
     */
